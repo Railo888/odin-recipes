@@ -1,1 +1,1 @@
-I'm currently doing an assignment that contains all things I've got so far through Odin project, and I will demonstrate html basics, how to use terminal and Git poop
+I'm currently doing an assignment that contains all things I've got so far through Odin project, and I will demonstrate html basics, how to use terminal and Git.
