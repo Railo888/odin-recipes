@@ -2,8 +2,9 @@
     font-family: cursive;
 }
 
-.img {
-    text-align: center;
+img {
+    margin: auto;
+    display: block;
 }
 
 .main,
