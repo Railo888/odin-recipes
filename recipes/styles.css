@@ -1,0 +1,21 @@
+* {
+    font-family: cursive;
+}
+
+.img {
+    text-align: center;
+}
+
+.main,
+#center {
+    text-align: center;
+}
+
+.main {
+    border: 4px double black;
+    background-color: lightgreen;
+}
+
+.size {
+    font-size: 18px;
+}
