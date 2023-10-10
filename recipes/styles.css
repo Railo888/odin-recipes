@@ -10,6 +10,7 @@ img {
 .main,
 #center {
     text-align: center;
+    padding: 8px 0;
 }
 
 .main {
